@@ -1,0 +1,2 @@
+# trainingUI
+simple streamlit dashboard 
